@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d83c86d5f9b21d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9fa375df360a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd3700987df2165",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/screenshot_2025-02-02_14-18-29.png"
+              },
+              "icon": "lucide-image",
+              "title": "screenshot_2025-02-02_14-18-29"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed22817a6942feb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "996a609c1d33eb21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503254efb2d4150d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92e3543abb8faccd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ec57825de77973e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6458dcc0fbd4e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "d559af1d6b3f1a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6bb373e70fddb69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/screenshot_2025-02-02_14-18-29.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for screenshot_2025-02-02_14-18-29"
+            }
+          },
+          {
+            "id": "b30018b81b7de2f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/screenshot_2025-02-02_14-18-29.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from screenshot_2025-02-02_14-18-29"
+            }
+          },
+          {
+            "id": "dce619b7c9765781",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf789f73d92bb0cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/screenshot_2025-02-02_14-18-29.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of screenshot_2025-02-02_14-18-29"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9dd3700987df2165",
+  "lastOpenFiles": [
+    "assets/execute.svg",
+    "1. Phishing Simulation with Zphisher & Ethical Analysis.md",
+    "assets/screenshot_2025-02-02_14-18-29.png",
+    "assets/screenshot_2025-02-02_14-15-12.png",
+    "assets/screenshot_2025-02-02_14-13-32.png",
+    "assets/screenshot_2025-02-02_14-10-25.png",
+    "assets/screenshot_2025-02-02_14-03-40.png",
+    "assets/screenshot_2025-02-02_13-58-06.png",
+    "assets/screenshot_2025-02-02_13-57-08.png",
+    "assets/chmod.svg",
+    "assets/screenshot_2025-02-02_13-52-59.png",
+    "assets"
+  ]
+}
